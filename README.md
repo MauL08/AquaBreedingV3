@@ -1,4 +1,4 @@
-# Skripsi LateX
+# Skripsi
 
 =============================
 
@@ -19,7 +19,3 @@ Untuk repository frontend mobile dengan Flutter dapat dilihat di : [AquaBreeding
 ### Backend : Flask
 
 Untuk repository backend dengan Flask dapat dilihat di : [AquaBreedingV2 Backend](https://github.com/MauL08/AquaBreedingAPI-V2)
-
-## File PDF
-
-Untuk file PDF Skripsi dapat dilihat pada file : [PDF Skripsi](./template-skripsi.pdf)
